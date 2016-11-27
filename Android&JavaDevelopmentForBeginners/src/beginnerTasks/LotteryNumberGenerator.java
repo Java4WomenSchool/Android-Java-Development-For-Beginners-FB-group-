@@ -25,6 +25,7 @@ public class LotteryNumberGenerator {
 		}
 
 		myScanner.close();
+		
 	} // end of main
 
 } // end of class
@@ -63,8 +64,7 @@ class GenerateRandomNumbers {
 	}
 }
 
-// #CodeTask
-// Good one for beginners.
+// #CodeTask // Good one for beginners.
 // Create a lottery number generator program/app.
 // It must allow the user to input how many numbers are to be generated, and the
 // range of the numbers, then the program/app will generate random numbers
