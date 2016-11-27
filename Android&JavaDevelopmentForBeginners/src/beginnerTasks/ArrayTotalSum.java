@@ -9,9 +9,7 @@ public class ArrayTotalSum {
 		arrayTotal(myArray);
 		System.out.println("From the main printing the returned value: " + total);
 		System.out.println();
-		
 		arrayOtherTotal();
-		
 	}
 
 	public static void arrayOtherTotal() {
