@@ -5,6 +5,6 @@ Exercises from the Facebook group called "Android & Java Development For Beginne
 
 #### So far I've made the following programs:
 
-1. Total sum
+1. Total sum of all numbers in an array
 2. Lottery number generator based on user input
 
